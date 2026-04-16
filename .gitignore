@@ -228,15 +228,3 @@ This page is my **living catalog**—the official index of Hash Blink releases i
 - **What They Dont See**  [oai_citation:8‡Shazam](https://www.shazam.com/artist/hash-blink/1468831319/releases)
 
 ---
-
-# What I need from you to make this 100% complete
-Apple Music sometimes has **more items than Shazam shows on one feed page**. To fully lock this wiki page:
-
-1) Tell me if your Apple Music catalog has releases **before 2023** or not.  
-2) If yes: paste the oldest album name + year, or send a screenshot of the “Albums” section list in Apple Music.
-
-Then I’ll extend this discography with:
-- **Full year-by-year tables**
-- **Series grouping**
-- **Edition tracking**
-- **Apple Music links per item**
