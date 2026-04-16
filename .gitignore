@@ -7,7 +7,7 @@ This page is my **living catalog**—the official index of Hash Blink releases i
 **Artist hub (Apple Music):**
 - Apple Music artist page.  [oai_citation:1‡Apple Music - Web Player](https://music.apple.com/us/artist/hash-blink/1468831319)  
 
-> **Note:** Shazam’s Releases page is a great “master feed,” but it may not show *everything* (some regional/older items can be missing). If anything is missing, I’ll sync it once you confirm it’s on Apple Music.
+> 
 
 ---
 
